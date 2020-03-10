@@ -12,13 +12,13 @@ The objective of Role Based Access Control (RBAC) is to determine the "best" set
  
  Possible regularizers in layman's terms could be somethign like the following:
  - "Roles must have at least 5 different entitlements, or we don't consider it a valid role"
- - "We want to ignore roles are only valid for <3 user, except the admin role"
+ - "We want to ignore roles are only valid for less than 3 users, except the admin role"
  
 Broadly, iterating through this process of generating candidate roles and iterating through the best choices with different regularization terms is very similar to [Simulated Annealing](https://en.wikipedia.org/wiki/Simulated_annealing "Simulated Annealing").
 
 ## Installation
 
-Install the latest version of the RoleMiner code & dependencies with pip::
+Install the latest version of the RoleMiner code & dependencies with pip:
 ~~~~
     $ pip install -U RoleMiner
 ~~~~
