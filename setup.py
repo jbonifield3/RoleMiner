@@ -11,7 +11,7 @@ setup(
     name='RoleMiner',
     version='0.1.0',
     author='James Bonifield',
-    author_email='james@bonifield.io',
+    author_email='jameslbonifield@gmail.io',
     packages=['RoleMiner'],
     url='https://github.com/jbonifield3/django-whoshere',
     license='MIT',
@@ -21,7 +21,7 @@ setup(
     install_requires=['pandas', 'numpy'],
     # test_suite='RoleMiner.tests',
     classifiers=[
-        'Development Status :: 2 - PreAlpha',
+        'Development Status :: 3 - Alpha',
         'Environment :: MacOS X',
         'Framework :: Jupyter',
         'Intended Audience :: Developers',
