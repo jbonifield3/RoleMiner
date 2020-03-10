@@ -9,7 +9,7 @@ os.chdir(os.path.normpath(os.path.join(os.path.abspath(__file__), os.pardir)))
 
 setup(
     name='RoleMiner',
-    version='0.1.0',
+    version='0.1.1',
     author='James Bonifield',
     author_email='jameslbonifield@gmail.io',
     packages=['RoleMiner'],
@@ -17,6 +17,7 @@ setup(
     license='MIT',
     description='Utilities for Role Based Access Control',
     long_description=README,
+    long_description_content_type='text/markdown',
     include_package_data=True,
     install_requires=['pandas', 'numpy'],
     # test_suite='RoleMiner.tests',

@@ -19,6 +19,6 @@ Broadly, iterating through this process of generating candidate roles and iterat
 ## Installation
 
 Install the latest version of the RoleMiner code & dependencies with pip:
-~~~~
-    $ pip install -U RoleMiner
-~~~~
+
+    `$ pip install -U RoleMiner`
+   
