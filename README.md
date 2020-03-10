@@ -2,8 +2,8 @@
 
 Python Implementation of the <b>FastMiner</b> and <b>Optimal Boolean Matrix Decomposition/RMP</b> algorithms for implementing <i>Role Based Access Control</i>, as described in the following papers:
 
-<i>RoleMiner: Mining roles using subset enumeration</i>: https://www.researchgate.net/publication/221609861_RoleMiner_Mining_roles_using_subset_enumeration
-<i>Optimal Boolean Matrix Decomposition: Application to Role Engineering</i>: https://ieeexplore.ieee.org/document/4497438
+- [<i>RoleMiner: Mining roles using subset enumeration</i>](https://www.researchgate.net/publication/221609861_RoleMiner_Mining_roles_using_subset_enumeration)
+- [<i>Optimal Boolean Matrix Decomposition: Application to Role Engineering</i>](https://ieeexplore.ieee.org/document/4497438)
 
 ## Overview
 
